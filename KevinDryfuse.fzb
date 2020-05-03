@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.4.2019-12-01.CD-498-0-a1ffcea" icon="Mine.png">
+    <title>KevinDryfuse</title>
+    <instances>
+        <instance moduleIdRef="prefix_KARD_434a112ddbf703b2e4a8cabd9d2a33d4_1" modelIndex="85481902" path="C:/Users/KevinLocal/Documents/Fritzing/parts/user/prefix_KARD_434a112ddbf703b2e4a8cabd9d2a33d4_1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="prefix_KARD_6e9fd464538f877760ca07e50f66dfe1_7" modelIndex="85489204" path="C:/Users/KevinLocal/Documents/Fritzing/parts/user/prefix_KARD_6e9fd464538f877760ca07e50f66dfe1_7.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="KARD_e6ad764f59e052ff167c25fa9101b32f_3" modelIndex="85489598" path="C:/Users/KevinLocal/Documents/Fritzing/parts/user/KARD_e6ad764f59e052ff167c25fa9101b32f_3.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
